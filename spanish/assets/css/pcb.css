@@ -1,0 +1,12 @@
+.rectificacion{ 
+  color: #000000;
+
+}
+
+.contact .php-email-form button[type="submit"] {
+  background: #428bca;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+}
