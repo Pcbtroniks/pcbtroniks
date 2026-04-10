@@ -54,3 +54,4 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = TRUE;
 $route['send-budget'] = 'home/send-budget';
 $route['clientes/login'] = 'login/customers';
+$route['tienda'] = 'home/ecommerce';

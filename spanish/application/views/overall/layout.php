@@ -148,6 +148,8 @@
 
           <li><a href="<?= base_url(); ?>#about">Nosotros</a></li>
 
+          <li><a href="<?= base_url(); ?>tienda">Tienda</a></li>
+
           <li><a href="<?= base_url(); ?>#services">Servicios</a></li>
 
           <li><a href="<?= base_url(); ?>#contact">Solicitar Cotización</a></li>
